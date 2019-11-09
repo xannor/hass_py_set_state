@@ -1,5 +1,5 @@
 # Set State
-Home Assistant Python Script to force set and entity state
+Home Assistant Python Script to force set an entity state
 
 ## How it works
 This script adds a service that lets you update the state and/or attributes of any entity, similar to the developer tools
