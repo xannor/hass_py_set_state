@@ -7,7 +7,12 @@ This script adds a service that lets you update the state and/or attributes of a
 Requires `python_script:` to be enabled in you configuration
 
 ## Installation
-Copy the Python script in to your `/config/python_scripts` directory or add this repository and install via HACS.
+
+### HACS ###
+To install this with HACS you must add this repository as a Python Script, as this code is a service via python script and not a custom component.
+
+### Manual ###
+Copy the Python script in to your `/config/python_scripts` directory.
 
 ## Service arguments
 key | required | type | description
