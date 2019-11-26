@@ -8,8 +8,8 @@ Requires `python_script:` to be enabled in you configuration
 
 ## Installation
 
-### HACS ###
-To install this with HACS you must add this repository as a Python Script, as this code is a service via python script and not a custom component.
+### HACS (0.9+) ###
+To install this with HACS you must add this repository as a Python Script, as this code is a service via python script and not a custom component. (must be at least version 0.9 of HACS for python scripts support)
 
 ### Manual ###
 Copy the Python script in to your `/config/python_scripts` directory.
